@@ -92,10 +92,6 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 </div>
 
 ---
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 
 
