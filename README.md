@@ -1,5 +1,7 @@
+## Hi there 👋
 
 I'm Sanskar, a passionate developer currently working on **Machine Learning projects** and diving deep into **YOLO (You Only Look Once)** for real-time object detection.
+
 
 ---
 
@@ -10,6 +12,7 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 - Streamlit integration with CV models
 
 ---
+
 ### 🔭 Currently Working On
 
 - ML model to predict real-world outcomes  
@@ -17,63 +20,50 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 
 ---
 
-
-
-
-
-
 ### 🚀 Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
   <img src="https://skillicons.dev/icons?i=c" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
   <img src="https://skillicons.dev/icons?i=py" height="50" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
   <img src="https://skillicons.dev/icons?i=js" height="50" />
 </div>
 
 ---
 
-### 🧰 Frameworks & Libraries
+### 📦 Frameworks / Libraries
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flask" height="50" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="50" />
-  
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://skillicons.dev/icons?i=keras" height="50" />
+  <img src="https://skillicons.dev/icons?i=scikit-learn" height="50" />
 </div>
 
 ---
 
-### 📘 Data & Notebooks
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter" height="50" />
-  <img src="https://img.shields.io/badge/Data%20Science-Important-informational?style=for-the-badge&logo=databricks" height="30" />
-</div>
-
----
-
-### ⚙️ Tools & DevOps
+### 🧰 Tools & DevOps
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="50" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Important-blue?style=for-the-badge&logo=data:image/svg+xml;base64," height="30" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-Deep-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64," height="30" />
 </div>
 
 ---
 
-
-
-### 📊 GitHub Stats
+### 🖥️ IDEs
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sans-creator&theme=dracula&show_icons=true&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-creator&layout=compact&theme=dracula&hide_border=false" height="170" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
 </div>
 
 ---
+
+
 ### 🌐 Connect with me
 
 <div align="center">
@@ -83,4 +73,22 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 </div>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sans-creator&theme=dracula&show_icons=true&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-creator&layout=compact&theme=dracula&hide_border=false" height="170" />
+</div>
+
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sans-creator&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170" />
+</div>
+
+---
+
 
