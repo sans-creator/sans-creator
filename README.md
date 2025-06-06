@@ -5,7 +5,7 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - YOLO (You Only Look Once) – Real-time Object Detection  
 - Model deployment using Docker  
@@ -13,14 +13,14 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 
 ---
 
-### 🔭 Currently Working On
+###  Currently Working On
 
 - ML model to predict real-world outcomes  
 - Dashboard for object detection with YOLO and Streamlit  
 
 ---
 
-### 🚀 Languages
+###  Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="50" />
@@ -31,7 +31,7 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 
 ---
 
-### 📦 Frameworks / Libraries
+###  Frameworks / Libraries
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
@@ -44,7 +44,7 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 
 ---
 
-### 🧰 Tools & DevOps
+### Tools & DevOps
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="50" />
@@ -55,7 +55,7 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 
 ---
 
-### 🖥️ IDEs
+###  IDEs
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="50" />
@@ -64,7 +64,7 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 ---
 
 
-### 🌐 Connect with me
+### Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sanskar-jaiswal-b49a90352/" target="_blank">
@@ -74,7 +74,7 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sans-creator&theme=dracula&show_icons=true&hide_border=false" height="170" />
@@ -83,12 +83,19 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 
 ---
 
-### 🔥 GitHub Streak
+</div>
+
+###  GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sans-creator&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170" />
 </div>
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
 
 
