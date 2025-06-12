@@ -91,7 +91,6 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 </div>
 
 ---
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=sans-creator&color=brightgreen)
 
 
