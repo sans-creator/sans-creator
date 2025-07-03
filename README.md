@@ -84,7 +84,7 @@ I'm Sanskar, a passionate developer currently working on **Machine Learning proj
 ---
 
 </div>
-###  GitHub Streak
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sans-creator&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170" />
