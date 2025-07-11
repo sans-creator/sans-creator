@@ -1,96 +1,21 @@
-## Hi there 👋
 
-I'm Sanskar, a passionate developer currently working on **Machine Learning projects** and diving deep into **YOLO (You Only Look Once)** for real-time object detection.
+  
 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sans-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sans-creator&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sans-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Currently Learning
-
-- YOLO (You Only Look Once) – Real-time Object Detection  
-- Model deployment using Docker  
-- Streamlit integration with CV models
-
----
-
-###  Currently Working On
-
-- ML model to predict real-world outcomes  
-- Dashboard for object detection with YOLO and Streamlit  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sans-creator&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-###  Languages
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="50" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
-</div>
-
----
-
-###  Frameworks / Libraries
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://skillicons.dev/icons?i=keras" height="50" />
-  <img src="https://skillicons.dev/icons?i=scikit-learn" height="50" />
-</div>
-
----
-
-### Tools & DevOps
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Important-blue?style=for-the-badge&logo=data:image/svg+xml;base64," height="30" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-Deep-brightgreen?style=for-the-badge&logo=data:image/svg+xml;base64," height="30" />
-</div>
-
----
-
-###  IDEs
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-</div>
-
----
+[![](https://visitcount.itsvg.in/api?id=sans-creator&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-### Connect with me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sanskar-jaiswal-b49a90352/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
----
-
-###  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sans-creator&theme=dracula&show_icons=true&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-creator&layout=compact&theme=dracula&hide_border=false" height="170" />
-</div>
-
----
-
-</div>
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sans-creator&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="170" />
-</div>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sans-creator&color=brightgreen)
-
-
